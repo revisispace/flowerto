@@ -39,7 +39,16 @@ body{
     animation-delay: .6s;
 }
 .greetings > span:nth-child(5){
+    animation-delay: .7s;
+}
+.greetings > span:nth-child(6){
     animation-delay: .8s;
+}
+.greetings > span:nth-child(7){
+    animation-delay: .9s;
+}
+.greetings > span:nth-child(8){
+    animation-delay: .10s;
 }
 
 .description{
